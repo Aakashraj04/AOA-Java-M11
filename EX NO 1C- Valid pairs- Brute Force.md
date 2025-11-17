@@ -21,8 +21,8 @@ x if x >= 0.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Malyadri Reddy N
-Register Number:  212223100037
+Developed by: Aakashraj M
+Register Number:  212222100002
 */
 import java.util.Scanner;
 public class CountPairsWithDifference {
